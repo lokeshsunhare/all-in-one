@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">AllInOne</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="ad_app_id">ca-app-pub-7540623994349950~4741847792</string>
+    <string name="ad_unit_id">ca-app-pub-7540623994349950/6452167674</string>
+
+
+    <!--    <string name="ad_app_id">ca-app-pub-3940256099942544~3347511713</string> &lt;!&ndash;    test&ndash;&gt;-->
+    <!--    <string name="ad_unit_id">ca-app-pub-3940256099942544/6300978111</string> &lt;!&ndash;    test&ndash;&gt;-->
+
+    <!--  Text To PDF -Set Page Size-->
+    <string name="set_page_size_text">Set Page Size</string>
+    <string name="b0_to_b10">B0 to B10</string>
+    <string name="a0_to_a10">A0 to A10</string>
+    <string name="tabloid">TABLOID</string>
+    <string name="executive">EXECUTIVE</string>
+    <string name="ledger">LEDGER</string>
+    <string name="letter">LETTER</string>
+    <string name="legal">LEGAL</string>
+    <string name="a4">A4</string>
+    <string name="default_page_size">DEFAULT ( %s )</string>
+    <string name="master_password_changed">The password seems to be incorrect. May be, you have changed the master password.</string>
+
+    <string name="set_as_default">Set as default</string>
+    <string-array name="array_page_sizes_b0_b10" translatable="false">
+        <item>B0 (1000 x 1414 mm)</item>
+        <item>B1 (707 x 1000 mm)</item>
+        <item>B2 (500 x 707 mm)</item>
+        <item>B3 (353 x 500 mm)</item>
+        <item>B4 (250 x 353 mm)</item>
+        <item>B5 (176 x 250 mm)</item>
+        <item>B6 (125 x 176 mm)</item>
+        <item>B7 (88 x 125 mm)</item>
+        <item>B8 (62 x 88 mm)</item>
+        <item>B9 (44 x 62 mm)</item>
+        <item>B10 (31 x 44 mm)</item>
+    </string-array>
+
+    <string-array name="array_page_sizes_a0_b10" translatable="false">
+        <item>A0 (841 x 1189 mm)</item>
+        <item>A1 (594 x 841 mm)</item>
+        <item>A2 (420 x 594 mm)</item>
+        <item>A3 (297 x 420 mm)</item>
+        <item>A4 (210 x 297 mm)</item>
+        <item>A5 (148 x 210 mm)</item>
+        <item>A6 (105 x 148 mm)</item>
+        <item>A7 (74 x 105 mm)</item>
+        <item>A8 (52 x 74 mm)</item>
+        <item>A9 (37 x 52 mm)</item>
+        <item>A10 (26 x 37 mm)</item>
+    </string-array>
+
+</resources>
